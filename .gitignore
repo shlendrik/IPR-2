@@ -1,0 +1,12 @@
+config/
+docker-entrypoint-initdb.d/
+
+db_data/
+*.sql
+
+*.log
+*.cache
+/tmp/
+.DS_Store
+.idea/
+.vscode/
